@@ -1,4 +1,4 @@
-import Header from "./components/Header/indes";
+import Header from "./components/Header/index";
 import SalesCard from "./components/SalesCard";
 function App() {
   return (
